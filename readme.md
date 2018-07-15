@@ -1,6 +1,4 @@
-#Peer-graded Assignment
-##Bash, Make, Git, and GitHub
-Sun, Jul 15, 2018 12:16:30 PM
+Sun, Jul 15, 2018 12:19:26 PM
  
 ###File name
 =========
