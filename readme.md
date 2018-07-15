@@ -1,10 +1,12 @@
-Sun, Jul 15, 2018 12:19:26 PM
+# Peer-graded Assignment
+## Bash, Make, Git, and GitHub
+Sun, Jul 15, 2018 12:22:23 PM
  
-###File name
-=========
+### File name
+## =========
 guessinggame.sh
  
-###Number of lines of code
-=======================
+### Number of lines of code
+## =======================
 32
  
